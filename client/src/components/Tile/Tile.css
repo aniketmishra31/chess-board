@@ -1,0 +1,15 @@
+.tile {
+    width: 64px;
+    height: 64px;
+}
+.tile img{
+    width: inherit;
+    height: inherit;
+}
+.light {
+    background-color: #F8E8CE;
+}
+
+.dark {
+    background-color: #6C4239;
+}

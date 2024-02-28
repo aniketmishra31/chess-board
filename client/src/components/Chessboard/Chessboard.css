@@ -1,0 +1,9 @@
+.board {
+    width: 512px;
+    height: 512px;
+    color: black;
+    background-color: #6C4239;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: small;
+}
